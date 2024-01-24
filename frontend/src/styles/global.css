@@ -1,0 +1,15 @@
+body {
+  color: #FFF;
+  background-color: #191919;
+
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+}
+
+.container {
+  width: 97%;
+  margin: 0 auto;
+  max-width: 1024px;
+}
